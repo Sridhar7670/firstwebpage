@@ -454,7 +454,8 @@ aside {
     .main{
         height:35%;
         width:100%;
-        padding-right: 0;
+        padding-right:0;
+        padding-left:0;
     }
     .left{
         padding-top: 20%;
