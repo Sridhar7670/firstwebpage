@@ -17,5 +17,9 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 //this is for button boko a table 
 function booking(){
-            alert(' walkin now ,Table Booking Done')
+            alert(' Table booking done ')
+        }
+
+function done(){
+            alert(' Your table is reserved ')
         }
