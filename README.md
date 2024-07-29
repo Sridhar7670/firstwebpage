@@ -9,5 +9,5 @@ and yes, this works good in all the devices that means this site is a Responsive
 and then i used a bit of Java Script for nav bar 
 
 <br>
-NOTE: my knowledge on this project may be limited 
+
 
